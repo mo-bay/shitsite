@@ -1,0 +1,32 @@
+.atx-taxis {
+  text-align: center;
+  background-color: black;
+  color: yellow;
+}
+
+.atx-taxis-title {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.atx-taxis-description {
+  font-size: 1.5em;
+}
+
+.atx-taxis-button {
+  font-size: 1.2em;
+  padding: 0.5em 1em;
+  background-color: yellow;
+  color: black;
+  border: none;
+  cursor: pointer;
+}
+
+.atx-taxis-button:hover {
+  background-color: black;
+  color: yellow;
+}
+.atx-taxis-phone {
+  font-size: 1.2em;
+  font-weight: bold;
+}
